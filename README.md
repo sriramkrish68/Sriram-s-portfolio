@@ -1,6 +1,6 @@
 ### My Personal PortFolio
 
-**[Live Portfolio Deployment]([sriram-s-portfolio.vercel.app](https://sriram-s-portfolio.vercel.app/))**
+**[Live Portfolio Deployment](https://sriram-s-portfolio.vercel.app/)**
 
 ---
 
